@@ -1,0 +1,45 @@
+a:link{
+    color: lawngreen;
+}
+
+a:visited{
+    color: greyS;
+}
+
+a:hover{
+    color: tomato;
+}
+
+a:active{
+    color: yellow;
+}
+
+button:hover{
+    background-color: lightblue;
+}
+
+button:active{
+    background-color: gold;
+}
+/*
+li:nth-child(1){
+    background-color: yellow;
+}*/
+
+/*
+every even line is lighted
+li:nth-child(even){
+    background-color: skyblue;
+}
+
+/*
+every odd line is highlighted
+li:nth-child(odd){
+    background-color: powderblue;
+
+}
+/*
+every 3rd element is highlighted
+li:nth-child(3n){
+    background-color: yellow;
+}*/
